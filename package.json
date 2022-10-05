@@ -1,0 +1,18 @@
+{
+  "name": "aa100-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "69lottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"69lottovip",
+"เว็บหวยออนไลน์ถูกกฎหมาย",
+"lottovip ล่ม",
+"แทงหวยฮานอยออนไลน์",
+"huaydeevip"
+],
+  "repository": "https://github.com/setteebet/aa100-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
